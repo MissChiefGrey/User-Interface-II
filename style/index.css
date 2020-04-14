@@ -89,6 +89,12 @@ video {
   vertical-align: baseline;
 }
 /* Reset */
+h3 {
+
+}
+p {
+
+}
 /* Header */
 
 h1 {
@@ -110,3 +116,23 @@ h1 {
   border: solid black 2px;
   background-color: silver;
 }
+/* Header end */
+/* Intro begin */
+.img1 {
+
+}
+.sec1 {
+
+}
+.name {
+
+}
+/* intro end */
+/* Gallery Begin */
+.imggal1 {
+
+}
+.imggal2 {
+  
+}
+/* Gallery End */
