@@ -119,11 +119,13 @@ p {
 }
 /* Header end */
 /* Intro begin */
-.img1 {
-
-}
 .sec1 {
-
+  display: flex;
+}
+.introimg {
+  display: flex;
+  justify-content: space-evenly;
+  height: 300px; width: 300px;
 }
 .name {
 
@@ -131,9 +133,15 @@ p {
 /* intro end */
 /* Gallery Begin */
 .imggal1 {
-
+  display: flex;
+  justify-content: space-evenly;
+  height: 350px; width: 250px;
 }
 .imggal2 {
-
+  display: flex;
+  justify-content: space-evenly;
+  box-sizing: border-box;
+  height: 250px; width: 250px;
+  margin: 20px;
 }
 /* Gallery End */
