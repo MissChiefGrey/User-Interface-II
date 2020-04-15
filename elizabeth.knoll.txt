@@ -1,7 +1,3 @@
-// Gallery of projects created with flexbox - you may use random images in place of project screenshots for now with the random image link: https://picsum.photos/ or you may use images that mean something to you
-// Information about you in place of the given placeholder
-// A My Projects button that links to the projects page
-// A Contact Me button that links to the contact page (footer. Just above SM outlets)
 // Links to any social media profiles (Instagram, linkedIn, Twitter) into the footer section of your home page
 
 Q&A
@@ -13,6 +9,7 @@ Q&A
 
 // describe and understand that flexbox is a module
     once Display: flex; is placed it opens up a treasure chest of styling opt. Makes life so much easier
+
 Tasks stretch
 // demonstrate understanding of flex container properties in flex box /
 // Make your webpage work at different browser widths, including mobile
