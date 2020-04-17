@@ -1,0 +1,22 @@
+
+
+Q&A
+// identify and explain all properties in the box model
+1. content/center = text
+2. padding = space around the text
+3. border  = defines the space outter edge of padding
+4. Margin = space between the border and other content/ boxes on the page
+
+// describe and understand that flexbox is a module
+    once Display: flex; is placed it opens up a treasure chest of styling opt. Makes life so much easier
+
+Tasks stretch
+// demonstrate understanding of flex container properties in flex box /
+// Make your webpage work at different browser widths, including mobile
+// Add CSS animations
+// Design and execute your own wireframe for About, Projects, and Contact pages
+// Host your website on Netlify.com
+
+RESPONSIVE webpage
+
+
