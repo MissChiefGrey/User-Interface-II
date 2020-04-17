@@ -1,4 +1,4 @@
-// Links to any social media profiles (Instagram, linkedIn, Twitter) into the footer section of your home page
+
 
 Q&A
 // identify and explain all properties in the box model
@@ -16,3 +16,7 @@ Tasks stretch
 // Add CSS animations
 // Design and execute your own wireframe for About, Projects, and Contact pages
 // Host your website on Netlify.com
+
+RESPONSIVE webpage
+
+
